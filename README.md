@@ -5,6 +5,7 @@ Este repositório contém uma versão interativa do meu artigo publicado na plat
 🔗 [Leia o artigo original na DIO](https://web.dio.me/articles/ia-generativa-na-pratica-exemplos-reais-de-uso-com-llms-rag-e-engenharia-de-prompt-5dc0266a951b?back=/articles)  
 🌐 [Acesse o site publicado via GitHub Pages](https://josecelsodelucas2-hub.github.io/meu-artigo-DIO-80/)  
 📘 [Baixar o ebook em PDF](ebook.pdf)
+
 ---
 
 ## 💡 Sobre o projeto
