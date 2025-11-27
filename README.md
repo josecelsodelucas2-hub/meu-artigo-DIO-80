@@ -27,4 +27,5 @@ Este projeto tem como objetivo demonstrar o uso prático da IA generativa com LL
 
 ✍️ Autor
 José Celso de Lucas Desenvolvedor em formação pela DIO | Explorador de IA generativa
+📘 [Baixar o ebook em PDF](DIO%20_%20Codifique%20o%20seu%20futuro%20glob...pdf)
 
