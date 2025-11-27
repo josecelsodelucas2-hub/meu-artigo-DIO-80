@@ -25,3 +25,5 @@ Este projeto tem como objetivo demonstrar o uso prático da IA generativa com LL
 
 ## 📁 Estrutura de arquivos
 
+✍️ Autor
+José Celso de Lucas Desenvolvedor em formação pela DIO | Explorador de IA generativa
