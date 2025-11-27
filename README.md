@@ -29,3 +29,15 @@ Este projeto tem como objetivo demonstrar o uso prático da IA generativa com LL
 ✍️ Autor
 José Celso de Lucas Desenvolvedor em formação pela DIO | Explorador de IA generativa
 
+---
+
+## 🤝 Contribuições
+
+Contribuições são bem-vindas! Se você quiser sugerir melhorias, corrigir algo ou adicionar novos exemplos, siga estes passos:
+
+1. Faça um fork do repositório
+2. Crie uma branch com sua melhoria (`git checkout -b melhoria-nova`)
+3. Faça o commit (`git commit -m 'Minha melhoria'`)
+4. Envie um pull request
+
+Vamos construir juntos! 🚀
