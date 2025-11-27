@@ -3,7 +3,8 @@
 Este repositório contém uma versão interativa do meu artigo publicado na plataforma DIO, transformado em uma página web com HTML, CSS e JavaScript.
 
 🔗 [Leia o artigo original na DIO](https://web.dio.me/articles/ia-generativa-na-pratica-exemplos-reais-de-uso-com-llms-rag-e-engenharia-de-prompt-5dc0266a951b?back=/articles)  
-🌐 [Acesse o site publicado via GitHub Pages](https://josecelsodelucas2-hub.github.io/meu-artigo-DIO-80/)
+🌐 [Acesse o site publicado via GitHub Pages](https://josecelsodelucas2-hub.github.io/meu-artigo-DIO-80/)  
+📘 [Baixar o ebook em PDF](DIO%20_%20Codifique%20o%20seu%20futuro%20glob...pdf)
 
 ---
 
@@ -27,5 +28,4 @@ Este projeto tem como objetivo demonstrar o uso prático da IA generativa com LL
 
 ✍️ Autor
 José Celso de Lucas Desenvolvedor em formação pela DIO | Explorador de IA generativa
-
 
